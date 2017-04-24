@@ -1,0 +1,11 @@
+##########################################################
+#                                                        #
+# Description: Used as fallback configuration for DB     #
+#              connection strings                        #
+#                                                        #
+##########################################################
+
+db_user: root
+db_pass: noentry159
+db_name: fucknode
+db_host: localhost

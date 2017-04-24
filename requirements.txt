@@ -1,0 +1,10 @@
+sanic
+sanic-cors
+sanic-openapi
+boto3
+bcrypt
+validate_email
+py3dns
+PyJWT
+pymysql
+pyyaml
