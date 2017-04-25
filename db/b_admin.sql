@@ -1,0 +1,2 @@
+/*This file is to be used ONLY for the insetion of administrative related data*/
+INSERT INTO `users` VALUES (1,'fabio@mandelbrot.co.za', '$2b$04$IkdedTfar6C8uVGLzoLrf.cLXQLn8PuWiXImy/xQt8Jz0TuzlHq/q');
