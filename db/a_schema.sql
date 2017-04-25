@@ -1,6 +1,6 @@
 /*This file is to be used ONLY for the structure of the database!*/
 
-CREATE DATABASE  IF NOT EXISTS `fapi`;
+CREATE DATABASE  IF NOT EXISTS `api`;
 
 USE `api`;
 
